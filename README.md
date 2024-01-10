@@ -21,7 +21,7 @@ A step-by-step series of examples that tell you how to get a development environ
 1. **Clone the repository**:
 
    ```sh
-   git clone https://your-repository-url.git
+   git clone https://github.com/Collins87mbathi/auth-system.git
 
    ```
 
